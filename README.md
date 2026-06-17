@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub repository link here](https://your-solution-url.com)
-- Live Site URL: [Add your live site/Vercel/GitHub Pages link here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository link here]([https://your-solution-url.com](https://github.com/Whalien08/Product-preview-card-component.git))
+- Live Site URL: []([https://whalien08.github.io/Product-preview-card-component/])
 
 ## My process
 
