@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](<img width="2879" height="1472" alt="Screenshot 2026-06-17 231250" src="https://github.com/user-attachments/assets/49f034a7-9c87-446f-b8e8-7def0c5bca78" />
-)
+<img width="100%" alt="Solution Screenshot" src="[https://github.com/user-attachments/assets/49f034a7-9c87-446f-b8e8-7def0c5bca78](https://github.com/user-attachments/assets/49f034a7-9c87-446f-b8e8-7def0c5bca78)" />
 
 ### Links
 
