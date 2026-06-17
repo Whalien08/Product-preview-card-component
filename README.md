@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repository link here]([https://your-solution-url.com](https://github.com/Whalien08/Product-preview-card-component.git))
-- Live Site URL: []([https://whalien08.github.io/Product-preview-card-component/])
+- Solution URL: [https://github.com/Whalien08/Product-preview-card-component.git](https://your-solution-url.com)
+- Live Site URL: [https://whalien08.github.io/Product-preview-card-component/](https://your-live-site-url.com)
 
 ## My process
 
