@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Whalien08/Product-preview-card-component.git]([https://your-solution-url.com](https://github.com/Whalien08/Product-preview-card-component.git))
+- Solution URL: [https://github.com/Whalien08/Product-preview-card-component.git](https://github.com/Whalien08/Product-preview-card-component.git)
 - Live Site URL: [https://whalien08.github.io/Product-preview-card-component/](https://whalien08.github.io/Product-preview-card-component/)
 
 ## My process
