@@ -109,19 +109,28 @@ button:hover {
 }
 
 
+
 @media (max-width: 600px) {
-  .card {
-    flex-direction: column; 
-    max-width: 325px;       
+  body {
+    overflow: hidden; 
+    padding: 16px;
   }
+
+  .card {
+    flex-direction: column;
+    max-width: 363px;       
+    width: 100%;
+    height: auto;
+  }
+
   .image {
     width: 100%;
-    height: 240px;       
+    height: 50vh;          
   }
 
   .desc {
     width: 80%;
-    padding: 24px;
+    padding: 24px;     
+    height: 50vh;    
   }
-
 }
