@@ -113,7 +113,8 @@ button:hover {
 @media (max-width: 600px) {
   body {
     overflow: hidden; 
-    padding: 16px;
+    padding: 5px;
+    position: fixed;
   }
 
   .card {
