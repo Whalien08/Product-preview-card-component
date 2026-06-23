@@ -113,7 +113,7 @@ button:hover {
 @media (max-width: 600px) {
   body {
     overflow: hidden; 
-    padding: 5px;
+    padding: 1px;
     position: fixed;
   }
 
