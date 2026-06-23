@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-*(Be sure to add your own screenshot file named `screenshot.jpg` into your project folder!)*
-![](./screenshot.jpg)
+<img width="2879" height="1472" alt="Screenshot 2026-06-17 231250" src="https://github.com/user-attachments/assets/f8907b1f-77a4-4221-b4aa-8eb7edb205a9" />
+
 
 ### Links
 
-- Solution URL: [Add your GitHub repository link here](https://your-solution-url.com)
-- Live Site URL: [Add your live site/Vercel/GitHub Pages link here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Whalien08/Product-preview-card-component.git](https://github.com/Whalien08/Product-preview-card-component.git)
+- Live Site URL: [https://whalien08.github.io/Product-preview-card-component/](https://whalien08.github.io/Product-preview-card-component/)
 
 ## My process
 
