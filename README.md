@@ -23,8 +23,11 @@ Users should be able to:
 - See hover and focus states for interactive elements (like the "Add to Cart" button changing shades).
 
 ### Screenshot
-
+#### Desktop View
 <img width="2879" height="1472" alt="Screenshot 2026-06-17 231250" src="https://github.com/user-attachments/assets/f8907b1f-77a4-4221-b4aa-8eb7edb205a9" />
+
+#### Mobile View
+<img width="614" height="1357" alt="Screenshot 2026-06-23 225615" src="https://github.com/user-attachments/assets/714c06e2-a472-4a92-8a34-d0110d3a6ce1" />
 
 
 ### Links
